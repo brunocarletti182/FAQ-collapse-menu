@@ -20,10 +20,12 @@ The JavaScript code (index.js) adds interactivity to the FAQ page. It enables us
 When a question is clicked, the answer is displayed, and the open arrow icon is shown. 
 Clicking on another question will close the previous one and open the new one, creating a smooth accordion effect.
 
-https://brunocarletti182.github.io/web_project_4_ptbr/
+**Link do projeto**
+
+https://brunocarletti182.github.io/FAQ-git/
 
 **Imagens do projeto**
 
-![Project images](./images/desktop-phone-sample.jpg)
+![Project images](./images/faq.jpg)
 
 
