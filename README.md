@@ -3,6 +3,7 @@
 FAQ Window
 
 **Description**
+
 This is a simple FAQ (Frequently Asked Questions) web window project. 
 It provides information about common questions and answers using an accordion-style interface. 
 Users can click on questions to reveal the answers. The project uses HTML, CSS, and JavaScript 
