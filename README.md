@@ -26,6 +26,6 @@ https://brunocarletti182.github.io/FAQ-git/
 
 **Imagens do projeto**
 
-![Project images](./images/faq.jpg)
+![Project images](./images/faq-animation.gif)
 
 
