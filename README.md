@@ -1,4 +1,4 @@
-**Projet**
+**Project**
 
 FAQ Window
 
